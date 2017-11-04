@@ -11,7 +11,7 @@ public class Calculator
     private static int y; 
     
 
-    //baic funtions
+    
     
     public int addition(int x, int y) 
     { 
